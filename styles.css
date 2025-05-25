@@ -111,7 +111,7 @@ html{
   
   /*HOME*/
   .home{
-    background:url(/placeholder-images/index_bg.jpg) no-repeat;
+    background:url(placeholder-images/index_bg.jpg) no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -136,7 +136,7 @@ html{
   
   /*RESUME*/
   .resume header::before{
-      background: url(/placeholder-images/resume_bg.jpg) center;
+      background: url(placeholder-images/resume_bg.jpg) center;
       background-size: cover;
       content:" ";
       display:block;
